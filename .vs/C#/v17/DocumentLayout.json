@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\tmp\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|s:\\tmp\\c#\\c#\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\formlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\formlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\formlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\formlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\\u0111\u0103ngnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\\u0111\u0103ngnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\\u0111\u0103ngnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\\u0111\u0103ngnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|S:\\tmp\\C#\\c#\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09ADD5-DEA6-4376-919B-3EE0C0B25F43}|C#\\C#.csproj|solutionrelative:c#\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLopHoc.cs",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\FormLopHoc.cs",
+              "RelativeDocumentMoniker": "C#\\FormLopHoc.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\FormLopHoc.cs",
+              "RelativeToolTip": "C#\\FormLopHoc.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAuwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:58:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trangchu.cs [Design]",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\Trangchu.cs",
+              "RelativeDocumentMoniker": "C#\\Trangchu.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\Trangchu.cs [Design]",
+              "RelativeToolTip": "C#\\Trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:21:38.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "C#\\Sinhvien.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\Sinhvien.cs",
+              "RelativeToolTip": "C#\\Sinhvien.cs",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAAC4BAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:10:59.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLopHoc.cs [Design]",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\FormLopHoc.cs",
+              "RelativeDocumentMoniker": "C#\\FormLopHoc.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\FormLopHoc.cs [Design]",
+              "RelativeToolTip": "C#\\FormLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:47:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u0110\u0103ngnhap.cs [Design]",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\\u0110\u0103ngnhap.cs",
+              "RelativeDocumentMoniker": "C#\\\u0110\u0103ngnhap.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\\u0110\u0103ngnhap.cs [Design]",
+              "RelativeToolTip": "C#\\\u0110\u0103ngnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:55:59.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u0110\u0103ngnhap.cs",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\\u0110\u0103ngnhap.cs",
+              "RelativeDocumentMoniker": "C#\\\u0110\u0103ngnhap.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\\u0110\u0103ngnhap.cs",
+              "RelativeToolTip": "C#\\\u0110\u0103ngnhap.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:32:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sinhvien.cs [Design]",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "C#\\Sinhvien.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\Sinhvien.cs [Design]",
+              "RelativeToolTip": "C#\\Sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:06:57.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trangchu.cs",
+              "DocumentMoniker": "S:\\tmp\\C#\\C#\\Trangchu.cs",
+              "RelativeDocumentMoniker": "C#\\Trangchu.cs",
+              "ToolTip": "S:\\tmp\\C#\\C#\\Trangchu.cs",
+              "RelativeToolTip": "C#\\Trangchu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:32:14.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

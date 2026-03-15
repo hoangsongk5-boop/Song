@@ -1,0 +1,14 @@
+S:\tmp\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+S:\tmp\C#\C#\obj\Debug\C_.Properties.Resources.resources
+S:\tmp\C#\C#\obj\Debug\C#.csproj.GenerateResource.cache
+S:\tmp\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+S:\tmp\C#\C#\bin\Debug\C#.exe.config
+S:\tmp\C#\C#\bin\Debug\C#.exe
+S:\tmp\C#\C#\bin\Debug\C#.pdb
+S:\tmp\C#\C#\obj\Debug\C#.exe
+S:\tmp\C#\C#\obj\Debug\C#.pdb
+S:\tmp\C#\C#\obj\Debug\C#.exe.config
+S:\tmp\C#\C#\obj\Debug\C_.Sinhvien.resources
+S:\tmp\C#\C#\obj\Debug\C_.Đăngnhap.resources
+S:\tmp\C#\C#\obj\Debug\C_.FormLopHoc.resources
+S:\tmp\C#\C#\obj\Debug\C_.Trangchu.resources
